@@ -13,3 +13,8 @@ the tool would suggest:
 > What is your account number?,
  What is your order number?,
  What is your phone number?
+
+If you were to type: `How can I`,
+the tool would suggest:
+> How can I help you?,
+ How can I call you?
