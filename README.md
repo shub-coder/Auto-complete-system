@@ -18,3 +18,8 @@ If you were to type: `How can I`,
 the tool would suggest:
 > How can I help you?,
  How can I call you?
+
+The Natural Language Processing Model used here is based on probability. Language model assigns the probability to a sequence of words, in a way that more "likely" sequences receive higher scores. 
+While a variety of language models have been developed, this assignment uses N-grams, a simple but powerful method for language modeling.
+
+N-grams are also used in machine translation and speech recognition.
